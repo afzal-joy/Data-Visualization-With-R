@@ -12,7 +12,7 @@ library(plotly)
 
 #Loading data using fread........... 
 
-df <- fread("C:/Users/Afzal Khan/Desktop/PROJECT/Visualization/corruptionAndDevelopmentCorelation__GGPLOT/Economist_Assignment_Data.csv", drop = 1)
+df <- fread("Economist_Assignment_Data.csv", drop = 1)
 
 
 head(df)
